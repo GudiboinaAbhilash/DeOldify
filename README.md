@@ -1,1 +1,1 @@
-# GAN-based-state-of-art-image-colourization
+# Image Colourization Using Generative Adversarial Networks
